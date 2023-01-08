@@ -1,4 +1,4 @@
-# CYBERSCAPE :  The Landscape of Open Source Software Security
+# CYBERSCAPE:  The Landscape of Open Source Software Security
 By Anova Hou
 
 ## DESCRIPTION OF THE WORK:
