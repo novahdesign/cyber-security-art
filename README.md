@@ -15,7 +15,7 @@ CYBERSCAPE invites viewers to critically think about how media impacts the futur
  
 The visualizations are reproducible with new data. The greatest impact of CYBERSCAPE is to inspire artists to use open source code, libraries, and data as creative mediums. Artistic practices in technology and cybersecurity are vital to create a future that is informed, inclusive, and secure.
 
-### LINKS & SOCIALS
+### LINKS & SOCIALS:
 
 CYBERSCAPE Project Github: https://github.com/novahdesign/cyber-security-art
 CYBERSCAPE Video Link: https://drive.google.com/file/d/1rtvwPQ7i5nv5h470SqUW1v3d-VYpxt-n/view?usp=sharing
