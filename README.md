@@ -29,3 +29,8 @@ Twitter: https://twitter.com/anova_hou
 
 Data from Sonatype:
 https://www.sonatype.com/state-of-the-software-supply-chain/open-source-dependency-management-trends-and-recommendations#:~:text=FIGURE%203.10.%20ENTERPRISE%20RESPONSE%20OVER%20TIME%20OF%20CRITICAL%20VULNERABILITIES%20BASED%20ON%20MEDIA%20COVERAGE
+
+
+## IMAGES:
+
+![popular library visualization; pink, blues, grids, swirls, representing landscape of Cybersecurity]	/FINAL-WORKS/cvefinal.jpg
