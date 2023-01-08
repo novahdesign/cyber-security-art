@@ -19,7 +19,6 @@ The visualizations are reproducible with new data. The greatest impact of CYBERS
 
 CYBERSCAPE Project Github: https://github.com/novahdesign/cyber-security-art
 CYBERSCAPE Video Link: https://drive.google.com/file/d/1rtvwPQ7i5nv5h470SqUW1v3d-VYpxt-n/view?usp=sharing
--
 Portfolio website: https://anovhphoto.weebly.com
 LinkedIn: https://www.linkedin.com/in/anova-hou
 Github: https://github.com/novahdesign
