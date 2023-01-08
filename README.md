@@ -33,4 +33,4 @@ https://www.sonatype.com/state-of-the-software-supply-chain/open-source-dependen
 
 ## IMAGES:
 
-![popular library visualization; pink, blues, grids, swirls, representing landscape of Cybersecurity]	/FINAL-WORKS/cvefinal.jpg
+![popular library visualization; pink, blues, grids, swirls, representing landscape of Cybersecurity](/FINAL-WORKS/cvefinal.jpg)
