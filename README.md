@@ -25,4 +25,7 @@ Github: https://github.com/novahdesign
 Instagram: https://www.instagram.com/anovh
 Twitter: https://twitter.com/anova_hou
 
+## DATA SOURCE:
 
+Data from Sonatype:
+https://www.sonatype.com/state-of-the-software-supply-chain/open-source-dependency-management-trends-and-recommendations#:~:text=FIGURE%203.10.%20ENTERPRISE%20RESPONSE%20OVER%20TIME%20OF%20CRITICAL%20VULNERABILITIES%20BASED%20ON%20MEDIA%20COVERAGE
