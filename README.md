@@ -1,6 +1,9 @@
 # CYBERSCAPE:  The Landscape of Open Source Software Security
 By Anova Hou
 
+CYBERSCAPE Zine: https://github.com/novahdesign/cyber-security-art/blob/main/Cyber%20Art%20Zine.pdf
+(Created for Linux Foundation Open Source Summit 2023)
+
 ## DESCRIPTION OF THE WORK:
 
 CYBERSCAPE is a multimedia series that explores and redefines how open source cybersecurity is represented in media. Trend data was scraped from popular libraries’ vulnerabilities over time, tracking the connection between media popularity and response speed. The data directly informs the series and the code will be shared and reused for future projects.
